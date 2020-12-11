@@ -1,0 +1,23 @@
+body{
+    background-color: #292929;
+}
+
+nav{
+    background-color: #121212 ;
+}
+
+.about{
+  
+    background-image: linear-gradient(120deg, black, rgb(71, 70, 70));
+}
+
+
+
+form{
+  
+    background-image: linear-gradient(120deg, black, rgb(71, 70, 70));
+}
+
+footer{
+    background-color: #121212 ;
+}
